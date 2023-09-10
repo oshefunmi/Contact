@@ -1,0 +1,40 @@
+body{
+    background-image: none;
+    background-image:url(phonewhatsapp.png) ;
+    background-position: center;
+    background-color: rgb(99, 209, 65);
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header{
+    background-image: linear-gradient(rgba(52, 231, 7, 0.5),rgba(3, 82, 20, 0.5));
+    padding: 10px ;
+    border: rgb(17, 145, 0) solid;
+    text-align: center;
+    position: sticky;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+}
+
+.h1{
+    text-align: center;
+    background-image: linear-gradient(rgba(90, 236, 156, 0.5),rgba(3, 70, 18, 0.5));
+    padding: 10px ;
+    border: rgb(17, 145, 0) solid;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+}
+
+h2{
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 60px;
+}
